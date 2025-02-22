@@ -15,7 +15,6 @@ I'm a web programmer with a keen interest in creating innovative solutions. Curr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-
 ## Top Projects
 
 - [Yup](https://github.com/yup-wd/Yup) - Hello. This is my profile - ⭐ 0 stars, 🛠 Language: Not specified, 🔄 Forks: 0, 🐛 Issues: 0
