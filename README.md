@@ -9,25 +9,16 @@ I'm a web programmer with a keen interest in creating innovative solutions. Curr
 
 ## Skills & Technologies
 
-html,css,js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
 
 ## Top Projects
 
 - [Yup](https://github.com/yup-wd/Yup) - Hello. This is my profile - ⭐ 0 stars, 🛠 Language: Not specified, 🔄 Forks: 0, 🐛 Issues: 0
-
-## GitHub Stats
-
-🔹 Public Repositories: 1  
-🔹 Followers: 0  
-🔹 Following: 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yup-wd&show_icons=true&theme=radical)
-
-## Recent Activity
-
-Here are some of my latest activities on GitHub:
-- Created the repository [Yup](https://github.com/yup-wd/Yup) on Feb 22, 2025.
-- Updated repository [Yup](https://github.com/yup-wd/Yup) on Feb 22, 2025.
 
 ## Latest Blog Posts
 
