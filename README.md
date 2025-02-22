@@ -1,4 +1,3 @@
-
 ## Hi there! 👋
 
 I'm **yup**, a passionate Web Programmer. Welcome to my GitHub profile! Here, you can explore my projects and contributions. Let's build something amazing together!
@@ -17,6 +16,7 @@ I'm a web programmer with a keen interest in creating innovative solutions. Curr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
+
 ## Top Projects
 
 - [Yup](https://github.com/yup-wd/Yup) - Hello. This is my profile - ⭐ 0 stars, 🛠 Language: Not specified, 🔄 Forks: 0, 🐛 Issues: 0
